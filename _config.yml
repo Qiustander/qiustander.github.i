@@ -188,7 +188,7 @@ scholar:
   locale: en
 
   source: /_bibliography/
-  bibliography: journalpubs.bib
+  bibliography: journalpubs.bib, confpubs.bib, preprint.bib
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
