@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: page
 title: About(中文）
 permalink: /
 description: 
