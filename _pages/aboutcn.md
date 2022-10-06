@@ -20,21 +20,21 @@ nav: true
 
 我是[香港理工大学(PolyU)](https://www.polyu.edu.hk/) [电子与资讯工程学系(EIE)](https://www.polyu.edu.hk/eie/) 的在读博士生（第四年）。我的导师是 [伦柏江博士](https://staff.eie.polyu.edu.hk/enpklun/。 在来香港读博之前, 我2018年在 [广东工业大学](https://english.gdut.edu.cn/) 的通信工程专业取得了荣誉学士学位, 我的指导老师是 [凌永权教授](https://wkling.gdut.edu.cn/)。
 
-Research interest: computational imaging, signal & image processing, optimization, deep learning (for imaging problems) etc.
+研究兴趣: 计算成像, 信号处理，图像处理, 数学优化, 深度学习。
 
 
-#### Academic Service
+#### 学术服务
 
-- Reviewer: BMVC2022, VCIP2022, ICME2022, DSP2018, ICCE-C2016.
-- Membership: 
+- 审稿人: BMVC2022, VCIP2022, ICME2022, DSP2018, ICCE-C2016.
+- 学术组织: 
   - IEEE Signal Processing Society, OSA.
-- Helper of IEEE International Conference on Visual Communications and Image Processing (VCIP 2020)
-- Program Committee of IEEE International Conference on Consumer Electronics China 2016 (IEEE ICCE-China 2016)
+- 会议助手：IEEE International Conference on Visual Communications and Image Processing (VCIP 2020)
+- 会议协管：IEEE International Conference on Consumer Electronics China 2016 (IEEE ICCE-China 2016)
 
-#### Teaching Services
+#### 教学经验
 
-- EIE4413 Digital Signal Processing: 2019 Spring, 2020 Spring, 2022 Spring
-- EIE529 Digital Image Processing: 2020 Fall
-- EIE2100 Basic Circuit Analysis: 2021 Fall, 2022 Fall
-- ENG2003 Information Technology: 2019 Fall, 2021 Spring
+- EIE4413 Digital Signal Processing: 2019 春季, 2020 春季, 2022 春季
+- EIE529 Digital Image Processing: 2020 秋季
+- EIE2100 Basic Circuit Analysis: 2021 秋季, 2022 秋季
+- ENG2003 Information Technology: 2019 秋季, 2021 春季
 
