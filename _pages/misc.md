@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Misc
-permalink: /others/
+permalink: /misc/
 nav: true
 ---
 

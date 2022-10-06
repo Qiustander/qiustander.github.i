@@ -1,7 +1,7 @@
 ---
-layout: page
-title: About Me (关于)
-permalink: /
+layout: about
+title: 关于
+permalink: /about_cn/
 description: 
 
 profile:
