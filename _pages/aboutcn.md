@@ -1,6 +1,6 @@
 ---
-layout: about
-title: 叶秋亮
+layout: page
+title: 中文版
 permalink: /aboutcn/
 description: 
 
@@ -12,6 +12,8 @@ profile:
 nav: true
 
 ---
+
+###**叶秋亮**
 
 博士候选人（第四年）, 香港理工大学<br>
 **地址**: DE503室, 香港理工大学, 红磡, 香港特别行政区, 中国<br>
