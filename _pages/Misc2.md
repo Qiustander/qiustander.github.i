@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Misc_sec
+title: 杂项
 permalink: /misc2/
 nav: true
 ---
