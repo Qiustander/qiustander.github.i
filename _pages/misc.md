@@ -14,7 +14,7 @@ I like tourism and thus I like taking photography to record the memorable scenes
 (Update soon)
 
 **1.** 
-<img src = "https://s1.ax1x.com/2022/08/04/vek1Nd.png" width = "600">
+<img src = "" width = "600">
 
 
 #### Reading
