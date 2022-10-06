@@ -1,9 +1,14 @@
 ---
-layout: page
-title: About(中文)
+layout: about
+title: 叶秋亮
 permalink: /aboutcn/
 description: 
 
+profile:
+  align: right
+  image: Myphoto.png
+  address: 
+  
 nav: true
 
 ---
