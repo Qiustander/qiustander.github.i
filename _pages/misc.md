@@ -5,4 +5,7 @@ permalink: /misc/
 nav: true
 ---
 
-Coming soon
+Hi! I like photography, reading, trekking (hiking), workout, running and cooking during my spare time. Feel free to have discussion if you are also interested in these hobbies!
+
+#### Photography
+
