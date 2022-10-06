@@ -1,17 +1,10 @@
 ---
 layout: page
-title: 关于
+title: About(中文)
 permalink: /aboutcn/
 description: 
 
-profile:
-  align: right
-  image: Myphoto.png
-  address: 
-
-news: true  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+nav: true
 
 ---
 
