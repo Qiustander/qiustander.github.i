@@ -77,9 +77,9 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Qiuliang's Blog  # blog_name will be displayed in your blog page
+blog_name: Qiuliang  # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: Some ideas & thoughts
+blog_description: Some ideas and thoughts
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -113,7 +113,7 @@ news_limit: 5
 # Markdown and syntax highlight
 markdown: kramdown
 highlighter: rouge
-highlight_theme: github  # https://github.com/jwarby/jekyll-pygments-themes
+#highlight_theme: github  # https://github.com/jwarby/jekyll-pygments-themes
 kramdown:
   input: GFM
   syntax_highlighter_opts:
@@ -138,16 +138,16 @@ keep_files:
 
 # Plug-ins
 plugins:
-   - jekyll-archives
-   - jekyll-diagrams
+   #- jekyll-archives
+   #- jekyll-diagrams
   # - jekyll-email-protect
-   - jekyll-feed
-   - jekyll-github-metadata
-   - jekyll-paginate-v2
+   #- jekyll-feed
+   #- jekyll-github-metadata
+   #- jekyll-paginate-v2
   - jekyll-responsive-image
   - jekyll/scholar
-   - jekyll-sitemap
-   - jekyll-target-blank
+  # - jekyll-sitemap
+   #- jekyll-target-blank
   # - jekyll-twitter-plugin
    - jemoji
 
