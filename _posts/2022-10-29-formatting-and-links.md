@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Jellky's format for blog (For review)
-date:   2022-10-29 16:40:16
+date:   2022-10-29 12:00:00
 description: Jellky's format for blog
 tags: formatting links
 categories: sample-posts
