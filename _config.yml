@@ -137,7 +137,7 @@ keep_files:
   - .git
 
 # Plug-ins
-#plugins:
+plugins:
 
    #- jekyll-archives
    #- jekyll-diagrams
@@ -149,7 +149,7 @@ keep_files:
    #- jekyll-target-blank
   # - jekyll-twitter-plugin
 #  - jekyll-responsive-image
-#  - jekyll/scholar
+  - jekyll/scholar
 
 # Sitemap settings
 defaults:
@@ -182,8 +182,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Ye
-  first_name: Qiuliang
+  last_name: [Ye]
+  first_name: [Qiuliang]
 
   style: apa
   locale: en
