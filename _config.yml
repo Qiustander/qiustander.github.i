@@ -138,8 +138,7 @@ keep_files:
 
 # Plug-ins
 plugins:
-  - jekyll-responsive-image
-  - jekyll/scholar
+
    #- jekyll-archives
    #- jekyll-diagrams
   # - jekyll-email-protect
@@ -149,6 +148,8 @@ plugins:
   # - jekyll-sitemap
    #- jekyll-target-blank
   # - jekyll-twitter-plugin
+  - jekyll-responsive-image
+  - jekyll/scholar
 
 # Sitemap settings
 defaults:
