@@ -137,7 +137,7 @@ keep_files:
   - .git
 
 # Plug-ins
-plugins:
+#plugins:
 
    #- jekyll-archives
    #- jekyll-diagrams
@@ -148,8 +148,8 @@ plugins:
   # - jekyll-sitemap
    #- jekyll-target-blank
   # - jekyll-twitter-plugin
-  - jekyll-responsive-image
-  - jekyll/scholar
+#  - jekyll-responsive-image
+#  - jekyll/scholar
 
 # Sitemap settings
 defaults:
