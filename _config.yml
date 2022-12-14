@@ -140,13 +140,7 @@ keep_files:
 plugins:
   - jekyll-archives
   - jekyll-diagrams
-  - jekyll-feed
-  - jekyll-imagemagick
-  - jekyll-minifier
-  - jekyll-paginate-v2
   - jekyll/scholar
-  - jekyll-sitemap
-  - jekyll-link-attributes
 
 # Sitemap settings
 defaults:
