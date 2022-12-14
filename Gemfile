@@ -11,6 +11,6 @@ group :jekyll_plugins do
     gem 'jekyll-sitemap'
     gem 'jekyll-link-attributes'
     gem 'jemoji'
-    gem 'responsive-image'
+    gem 'jekyll-responsive-image'
     gem 'webrick'
 end
