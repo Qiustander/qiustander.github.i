@@ -142,6 +142,7 @@ plugins:
   - jekyll-imagemagick
   - jekyll-responsive-image
   - "jekyll-github-metadata"
+  - jekyll-archives
 
 # Sitemap settings
 defaults:
