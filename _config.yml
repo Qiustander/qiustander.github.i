@@ -139,7 +139,6 @@ keep_files:
 # Plug-ins
 plugins:
   - jekyll/scholar
-  - jekyll-imagemagick
   - jekyll-responsive-image
   - "jekyll-github-metadata"
   - jekyll-archives
