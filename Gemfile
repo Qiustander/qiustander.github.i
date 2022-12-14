@@ -10,4 +10,3 @@ gem 'jekyll-imagemagick', group: :jekyll_plugins
 gem 'jekyll-minifier', group: :jekyll_plugins
 gem 'jekyll-paginate-v2', group: :jekyll_plugins
 gem 'jekyll-sitemap', group: :jekyll_plugins
-gem 'jekyll-link-attributes', group: :jekyll_plugins
