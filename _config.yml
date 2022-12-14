@@ -77,7 +77,7 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Qiuliang's Blog  # blog_name will be displayed in your blog page
+blog_name: Liang's Blog  # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: Some ideas & thoughts
 permalink: /blog/:year/:title/
@@ -140,7 +140,7 @@ keep_files:
 plugins:
   - jekyll-responsive-image
   - jekyll/scholar
-   #- jekyll-archives
+  - jekyll-archives
    #- jekyll-diagrams
   # - jekyll-email-protect
    #- jekyll-feed
