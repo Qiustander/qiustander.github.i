@@ -140,6 +140,7 @@ keep_files:
 plugins:
   - jekyll-archives
   - jekyll/scholar
+  - jekyll-imagemagick
 
 # Sitemap settings
 defaults:
