@@ -139,7 +139,6 @@ keep_files:
 # Plug-ins
 plugins:
   - jekyll-archives
-  - jekyll-diagrams
   - jekyll/scholar
 
 # Sitemap settings
