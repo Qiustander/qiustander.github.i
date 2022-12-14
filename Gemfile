@@ -10,7 +10,5 @@ group :jekyll_plugins do
     gem 'jekyll-scholar'
     gem 'jekyll-sitemap'
     gem 'jekyll-link-attributes'
-    gem 'jemoji'
     gem 'jekyll-responsive-image'
-    gem 'webrick'
 end
