@@ -141,6 +141,7 @@ plugins:
   - jekyll/scholar
   - jekyll-imagemagick
   - jekyll-responsive-image
+  - "jekyll-github-metadata"
 
 # Sitemap settings
 defaults:
