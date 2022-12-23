@@ -29,7 +29,9 @@ nav: true
 
 #### 学术服务
 
-- 审稿人: TCSVT, BMVC2022, VCIP2022, ICME2022, DSP2018, ICCE-C2016.
+- 审稿人: 
+	- 期刊： IEEE Trans. on Circuits and Systems for Video Technology, Optics Express.
+	- 会议:  BMVC2022, VCIP2022, ICME2022, DSP2018, ICCE-C2016.
 - 学术组织: 
   - IEEE Signal Processing Society, OSA.
 - 会议助手：IEEE International Conference on Visual Communications and Image Processing (VCIP 2020)
