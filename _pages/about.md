@@ -24,7 +24,7 @@ I'm currently a final year Ph.D. candidate at [Department of Electronic and Info
 
 Research interest: computational imaging, signal & image processing, optimization, deep learning (for imaging problems) etc.
 
-
+[](http://qiuliang.site/assets/files/../../../../../assets/files/covid.pdf)
 #### Academic Service
 
 - Reviewer: 
