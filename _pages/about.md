@@ -15,14 +15,14 @@ social: false  # includes social icons at the bottom of the page
 
 ---
 
-Ph.D. Candidate, The Hong Kong Polytechnic University<br>
-**Address**: DE503, The Hong Kong Polytechnic University, Hung Hom, Hong Kong SAR, China<br>
-**Email**: qiu-liang.ye [at] connect.polyu.hk, qiustander [at] gmail.com<br>
+Ph.D., The Hong Kong Polytechnic University<br>
+**Address**: Kowloon, Hong Kong SAR, China<br>
+**Email**: qiustander [at] gmail.com<br>
 [Google scholar](https://scholar.google.com/citations?user=DnMHi80AAAAJ&hl=en&oi=ao) | [LinkedIn](https://www.linkedin.com/in/qiuliang-ye-440b85127/) | [Github](https://github.com/Qiustander) | [ResearchGate](https://www.researchgate.net/profile/Qiuliang-Ye) || [CV(English)](http://qiuliang.site/assets/files/../../../../../assets/files/Curriculum_Vitae.pdf) | [Resume(English)](http://qiuliang.site/assets/files/../../../../../assets/files/Resume_English.pdf) | [Resume(Chinese)](https://qiuliang.site/assets/files/../../../../../assets/files/Resume_Chinese.pdf)
 
-I'm currently a final year Ph.D. candidate at [Department of Electronic and Information Engineering (EIE)](https://www.polyu.edu.hk/eie/), [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), supervised by [Dr. Daniel Pak-Kong Lun](https://staff.eie.polyu.edu.hk/enpklun/).  Prior to joining PolyU, I earned Bachelor of Science with distinction in [Guangdong University of Tec	hnology](https://english.gdut.edu.cn/) in 2018, advised by [Prof. Bingo Wing-Kuen Ling](https://wkling.gdut.edu.cn/).
+I obtained my Ph.D. degree at [Department of Electronic and Information Engineering (EIE)](https://www.polyu.edu.hk/eie/), [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), supervised by [Dr. Daniel Pak-Kong Lun](https://staff.eie.polyu.edu.hk/enpklun/).  Prior to joining PolyU, I earned Bachelor of Science with distinction in [Guangdong University of Tec	hnology](https://english.gdut.edu.cn/) in 2018, advised by [Prof. Bingo Wing-Kuen Ling](https://wkling.gdut.edu.cn/). Now I am an intern in machine learning team at JP Morgan.
 
-Research interest: computational imaging, signal & image processing, optimization, deep learning (for imaging problems) etc.
+Research interest: time series, state space model, computational imaging, signal & image processing, optimization, deep learning etc.
 
 [](http://qiuliang.site/assets/files/../../../../../assets/files/covid.pdf)
 #### Academic Service
