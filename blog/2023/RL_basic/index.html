@@ -2,7 +2,7 @@
 <html lang="en">
 
   <head>
-    <meta http-equiv="refresh" content="3; url=https://qiustander.github.ioqiustander.github.io/" />
+    
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,7 +12,7 @@
   Qiuliang  Ye
 
 
-  | Page not found
+  | Reinforcement Learning Basics
 
 </title>
 <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -38,7 +38,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22></text></svg>">
 
 <link rel="stylesheet" href="/qiustander.github.io/assets/css/main.css">
-<link rel="canonical" href="https://qiustander.github.io/qiustander.github.io/404.html">
+<link rel="canonical" href="https://qiustander.github.io/qiustander.github.io/blog/2023/RL_basic/">
 
 
 
@@ -86,7 +86,7 @@ var _hmt = _hmt || [];
           </li>
           
           <!-- Blog -->
-          <li class="nav-item ">
+          <li class="nav-item active">
             <a class="nav-link" href="/qiustander.github.io/blog/">
               blog
               
@@ -169,17 +169,76 @@ var _hmt = _hmt || [];
     <!-- Content -->
 
     <div class="container mt-5">
-      <div class="post">
+      
+
+
+
+
+
+<div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Page not found</h1>
-    <p class="post-description">Looks like there has been a mistake. Nothing exists here.</p>
+    <h1 class="post-title">Reinforcement Learning Basics</h1>
+    <p class="post-meta">February 28, 2023</p>
+    <p class="post-tags">
+      <a href="qiustander.github.io/blog/2023"> <i class="fas fa-calendar fa-sm"></i> 2023 </a>
+      
+      &nbsp; &middot; &nbsp;
+        
+        <a href="qiustander.github.io/blog/tag/RL">
+          <i class="fas fa-hashtag fa-sm"></i> RL</a> &nbsp;
+          
+        <a href="qiustander.github.io/blog/tag/related">
+          <i class="fas fa-hashtag fa-sm"></i> related</a> &nbsp;
+          
+      
+
+      
+      &nbsp; &middot; &nbsp;
+        
+        <a href="qiustander.github.io/blog/category/sample-posts">
+          <i class="fas fa-tag fa-sm"></i> sample-posts</a> &nbsp;
+          
+      
+
+    </p>
   </header>
 
-  <article>
-    <p>You will be redirected to the main page within 3 seconds. If not redirected, please click <a href="https://qiustander.github.ioqiustander.github.io/">here</a>.</p>
+  <article class="post-content">
+    <h2 id="introduction">Introduction</h2>
+<p>This is the takeaway note of the <a href="https://www.coursera.org/learn/fundamentals-of-reinforcement-learning/home/welcome">Fundamentals of Reinforcement Learning</a> course, which is the first course of the <em>Reinforcement Learning</em> by University of Alberta. The lecturers are all from <a href="http://incompleteideas.net/">Sutton group</a>, the founder of reinforcement learning! The reference of this course is <a href="http://www.incompleteideas.net/book/the-book-2nd.html">Reinforcement Learning: An Introduction</a>. You can download it freely. The most practical and important way to study this course is via programming! You can try OpenAI’s <a href="https://github.com/Farama-Foundation/Gymnasium">gym</a> and codes in the Sutton’s book.</p>
+
+<h4 id="difference-with-supervised-learning-and-unsupervised-learning">Difference with Supervised Learning and Unsupervised Learning</h4>
+<p><strong>Supervised Learning</strong>: learns a mapping from input distribution to output distribution with labels. Like homework in primary school/middle school that has correct answers.</p>
+
+<p><strong>Unsupervised Learning</strong>: learns inherent structures of the data from input distribution without labels. Like exploration homework that does not fixed answers. Everyone (different neural network) has different answer for the same question.</p>
+
+<p><strong>Reinforcement Learning</strong>: quite different from the end-to-end learning framework. It can be treated as the learning-based control system. Given an agent that can interact with the environment, the reinforcement learning mainly optimizes the maximum value (the goal/objective) of each action of the agent. Quite similar with our great effort towards a grand goal, we consider each decision (action) carefully.</p>
+
+<h3 id="k-armed-bandit-problem">K-Armed Bandit Problem</h3>
+<p>Reading: Chapter 2-2.7 (Pages 25-36) of Sutton book.</p>
+
+<p>Decision under uncertainty can be formulated a k-armed bandit problem. That is, we have an <strong>agent</strong> who chooses between <strong>K</strong> actions and receives a specific <strong>reward</strong> based on the chosen action.</p>
+
+<h4 id="action-values">Action-values</h4>
+<p>The value of an action is defined as the <strong>expected reward</strong> of that action.</p>
+
+<p>\begin{equation}
+q_\ast(a) \equiv \mathbb{E}[R_t| A_t = a] = \sum_r p(r|a) r,\, \forall a\in {1, \dots, K}.
+\end{equation}</p>
+
+<p>The goal is to maximize the expected reward \(\mathop{argmax}\limits_{a}\, q_\ast(a)\). Since we do not know the \(q_\ast(a)\), we need to estimate it. The simplest method is via the <em>sample-average</em> method. That is, we sample each arm equally and calculate the estimated action values. Therefore, we have the action value at time \(t\):</p>
+
+<p>\begin{equation}
+\label{eq:valu-action}
+Q_t(a) = \frac{\text{sum of rewards when a taken prior to t}}{\text{number of times a taken prior to t}} = \frac{\sum_{i=1}^{t-1}R_i \cdot \mathbf{1}<em>{A</em>{i=a}}}{\sum_{i=1}^{t-1}\mathbf{1}<em>{A</em>{i=a}} }
+\end{equation}</p>
+
+<p>Here</p>
 
   </article>
+
+  
 
 </div>
 
