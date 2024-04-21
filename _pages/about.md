@@ -20,11 +20,10 @@ Ph.D., The Hong Kong Polytechnic University<br>
 **Email**: qiustander [at] gmail.com<br>
 [LinkedIn](https://www.linkedin.com/in/qiuliang-ye-440b85127/) | [Google scholar](https://scholar.google.com/citations?user=DnMHi80AAAAJ&hl=en&oi=ao) |  [Github](https://github.com/Qiustander) | [ResearchGate](https://www.researchgate.net/profile/Qiuliang-Ye) 
 
-I obtained my Ph.D. degree at [Department of Electronic and Information Engineering (EIE)](https://www.polyu.edu.hk/eie/), [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), focusing on deep learning in comutational imaging, signal processing, and mathematical optimization.  Prior to joining PolyU, I earned Bachelor of Science with distinction in [Guangdong University of Tec	hnology](https://english.gdut.edu.cn/) in 2018. Now I am an intern as data scientist in machine learning center of excellence at JP Morgan, specialized in Bayesian inference on state space models.
+I obtained my Ph.D. degree at [Department of Electronic and Information Engineering (EIE)](https://www.polyu.edu.hk/eie/), [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), focusing on deep learning in comutational imaging, signal processing, and mathematical optimization.  Prior to joining PolyU, I earned Bachelor of Science with distinction in [Guangdong University of Technology](https://english.gdut.edu.cn/) in 2018. Now I am an intern as data scientist in machine learning center of excellence at JP Morgan Chase & Co., specialized in Bayesian inference on state space models.
 
 Research interest: time series, state space model, computational imaging, signal & image processing, optimization, deep learning etc.
 
-[](http://qiuliang.site/assets/files/../../../../../assets/files/covid.pdf)
 #### Academic Service
 
 - Reviewer: 
