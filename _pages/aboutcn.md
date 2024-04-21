@@ -20,9 +20,9 @@ nav: true
 哲学博士, 香港理工大学<br>
 **地址**: 九龙, 香港特别行政区, 中国<br>
 **邮件**: qiustander [at] gmail.com<br>
-[谷歌学术](https://scholar.google.com/citations?user=DnMHi80AAAAJ&hl=en&oi=ao) | [领英](https://www.linkedin.com/in/qiuliang-ye-440b85127/) | [Github](https://github.com/Qiustander) | [ResearchGate](https://www.researchgate.net/profile/Qiuliang-Ye) | [简历](https://qiuliang.site/assets/files/../../../../../assets/files/Resume_English.pdf) 
+[谷歌学术](https://scholar.google.com/citations?user=DnMHi80AAAAJ&hl=en&oi=ao) | [领英](https://www.linkedin.com/in/qiuliang-ye-440b85127/) | [Github](https://github.com/Qiustander) 
 
-我在[香港理工大学(PolyU)](https://www.polyu.edu.hk/) [电子与资讯工程学系(EIE)](https://www.polyu.edu.hk/eie/) 取得了哲学博士学位。我的导师是[伦柏江博士](https://staff.eie.polyu.edu.hk/enpklun/)。 在来香港读博之前, 我2018年在 [广东工业大学](https://english.gdut.edu.cn/) 的通信工程专业取得了荣誉学士学位, 我的指导老师是 [凌永权教授](https://wkling.gdut.edu.cn/)。 我现在在JP Morgan （摩根大通）的机器学习团队实习。
+我在[香港理工大学(PolyU)](https://www.polyu.edu.hk/) [电子与资讯工程学系(EIE)](https://www.polyu.edu.hk/eie/) 取得了哲学博士学位。我的导师是[伦柏江博士](https://staff.eie.polyu.edu.hk/enpklun/)。 来香港读博之前, 我2018年在 [广东工业大学](https://english.gdut.edu.cn/) 的通信工程专业取得了荣誉学士学位, 我的指导老师是 [凌永权教授](https://wkling.gdut.edu.cn/)。 我现在在JP Morgan （摩根大通）的机器学习中心实习。
 
 研究兴趣: 时间序列，贝叶斯统计，计算成像, 信号处理，图像处理, 数学优化, 深度学习。
 
