@@ -28,7 +28,7 @@ Research interest: time series, state space model, computational imaging, signal
 #### Academic Service
 
 - Reviewer: 
-	- Journal: IEEE Trans. on Circuits and Systems for Video Technology, Optics Express, Optics Letters.
+	- Journal: IEEE Trans. on Circuits and Systems for Video Technology, Optics Express.
 	- Conference: BMVC2022, VCIP2022, ICME2022, DSP2018, ICCE-C2016.
 - Membership: 
   - IEEE Signal Processing Society, OSA.
