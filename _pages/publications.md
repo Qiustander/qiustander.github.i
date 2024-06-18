@@ -8,6 +8,15 @@ nav: true
 
 ---
 
+#### Preprints
+
+<div class="publications">
+
+{% for y in page.years %}
+  {% bibliography -f preprint -q @*[year={{y}}]* %}
+{% endfor %}
+
+</div>
 
 
 #### Journal Papers

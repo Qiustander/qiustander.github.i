@@ -5,4 +5,4 @@ Tips: I moved all the js and css files from cloud to this local folder, thus mak
 If you want to use this for yourself, you can fork it, and modify the following necessary files:
 - `_config.yml`: necessary variable values.
 - All bib files inside `_bibliography` folder. Fill them with your own publications.
-- `_pages/*.md`. Modify them using your own information. 
+- `_pages/*.md`. Modify them using your own information.
